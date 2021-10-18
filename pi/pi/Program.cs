@@ -21,7 +21,7 @@ namespace pi
                 sample = GenerateSamples(numberOfSamples);
                 for(int i =0; i < numberOfSamples; i++)
                 {
-                    w,l = sample[i, i];
+                     w,l = sample[i, i];
                 }
             }
 
